@@ -1,0 +1,24 @@
+header h1 {
+  color: rgb(10, 160, 224);
+  background-color: blur;
+  text-align: center;
+  text-shadow: 2px 2px rgb(224, 224, 237);
+  position: fixed;
+  left: 133px;
+  top: 230px;
+}
+
+body {
+  background-color: #e0cdcd;
+  background-image: url("https://techrato.com/wp-content/uploads/2022/02/Marketing-Sazonal-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+input {
+  background-color: #b3e3e3;
+  position: fixed;
+  left: 180px;
+  top: 300px;
+  color: rgb(7, 44, 253);
+}/*# sourceMappingURL=style.css.map */
